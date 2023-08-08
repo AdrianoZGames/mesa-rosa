@@ -1,0 +1,25 @@
+.retan {
+    background-color:violet;
+    display:flex;
+    justify-content: space-between;
+    padding: 0px 10vw;
+    align-items: center;
+  }
+  .titu{
+    color: deeppink;
+
+  }
+.botas{
+    margin: 0px 15px;
+    color: black;
+    border: 2px solid black;
+    text-decoration: none;
+    padding: 8px;
+}
+
+
+.linha{
+    display: flex;
+   align-items: center;
+    
+}
