@@ -1,6 +1,6 @@
 import "./footer.css";
 
-export default function footer() {
+export default function Footer() {
   return (
     //jsx
     <main className="rentanf">
@@ -12,48 +12,42 @@ export default function footer() {
         cor-de-rosa.
       </div>
       <div className="links">
-        <img src="src/componentes/header/img/1.png" alt="" />
-        <img src="src/componentes/header/img/2.png" alt="" />
-        <img src="src/componentes/header/img/4.webp" alt="" />
-        <img src="src/componentes/header/img/9.png" alt="" />
-        <img src="src/componentes/header/img/9.webp" alt="" />
-        <img src="src/componentes/header/img/unnamed.png" alt="" />
-
+      
         <div className="linha">
-          <a href="#" className="botas">
+          <a href="#" className="bota">
             produto
           </a>
-          <a href="#" className="botas">
+          <a href="#" className="bota">
             integrantes
           </a>
-          <a href="#" className="botas">
+          <a href="#" className="bota">
             Soluções
           </a>
-          <a href="#" className="botas">
+          <a href="#" className="bota">
             segurança
           </a>
-          <a href="#" className="botas">
+          <a href="#" className="bota">
             plataforma
           </a>
-          <a href="#" className="botas">
+          <a href="#" className="bota">
             web games
           </a>
-          <a href="#" className="botas">
+          <a href="#" className="bota">
             web designer
           </a>
-          <a href="#" className="botas">
+          <a href="#" className="bota">
             invasor
           </a>
-          <a href="#" className="botas">
+          <a href="#" className="bota">
             proficionais em serviço
           </a>
-          <a href="#" className="botas">
+          <a href="#" className="bota">
             central
           </a>
-          <a href="#" className="botas">
+          <a href="#" className="bota">
             comunidade
           </a>
-          <a href="#" className="botas">
+          <a href="#" className="bota">
             documentação
           </a>
         </div>

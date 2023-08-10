@@ -1,17 +1,18 @@
-.retan {
-  background-color: violet;
+.rentanf {
+  background-color: black;
   display: flex;
   justify-content: space-between;
   padding: 0px 10vw;
   align-items: center;
+  
 }
-.titu {
+.final {
   color: deeppink;
 }
-.botas {
-  margin: 0px 15px;
-  color: black;
-  border: 2px solid black;
+.bota {
+  margin: 0px 15px;  
+  color: white;
+  border: 1px solid snow;
   text-decoration: none;
   padding: 8px;
 }
@@ -20,3 +21,7 @@
   display: flex;
   align-items: center;
 }
+
+
+
+
